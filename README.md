@@ -72,9 +72,9 @@ A passionate and curious mind constantly learning and building. I believe in the
 Feel free to reach out, collaborate, or just geek out over cool tech stuff:
 
 - 🌐 [Portfolio](#)  
-- 📧 [your.email@example.com](mailto:your.email@example.com)  
-- 🧵 [LinkedIn](#)  
-- 🐙 [GitHub](https://github.com/yourusername)  
+- 📧 [jose10sojan@gmail.com](mailto:jose10sojan@gmail.com)  
+- 🧵 [LinkedIn](www.linkedin.com/in/jose-sojan-choorakoottil-b20876273)  
+- 🐙 [GitHub](https://github.com/JoseSojan123)  
 
 ---
 
