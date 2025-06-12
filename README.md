@@ -73,7 +73,8 @@ Feel free to reach out, collaborate, or just geek out over cool tech stuff:
 
 - 🌐 [Portfolio](#)  
 - 📧 [jose10sojan@gmail.com](mailto:jose10sojan@gmail.com)  
-- 🧵 [LinkedIn](www.linkedin.com/in/jose-sojan-choorakoottil-b20876273)  
+- 🧵 [LinkedIn](https://www.linkedin.com/in/jose-sojan-choorakoottil-b20876273)
+
 - 🐙 [GitHub](https://github.com/JoseSojan123)  
 
 ---
