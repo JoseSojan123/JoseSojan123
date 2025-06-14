@@ -14,7 +14,7 @@ Currently, I'm exploring cloud development with a focus on AWS services and aimi
 
 ---
 
-![Working GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ6aXF2Njl0OGVoMmt0bjRlYjNmczFvcDN2dmZ2eHkyMnUxdXA3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
+![Working GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRxZGtiZnY2OWk5aDgwM2g0N291cDk0dXduNHY4aTd2MnRxcWl5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif)
 
 ## Tech Stack
 
