@@ -9,6 +9,8 @@
 
 I'm a developer with a curious mind, always eager to explore the intersection of technology and creativity. Whether it's building intuitive UIs, training ML models, or designing engaging digital experiences, I love bringing ideas to life.
 
+Currently, I'm exploring cloud development with a focus on AWS services and aiming to deepen my understanding of scalable backend architectures and cloud-based solutions.
+
 ---
 
 ## Tech Stack
@@ -34,6 +36,7 @@ I'm a developer with a curious mind, always eager to explore the intersection of
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
