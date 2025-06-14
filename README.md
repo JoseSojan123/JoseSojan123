@@ -4,6 +4,8 @@
 
 ---
 
+
+
 ## About Me
 
 I'm a developer with a curious mind, always eager to explore the intersection of technology and creativity. Whether it's building intuitive UIs, training ML models, or designing engaging digital experiences, I love bringing ideas to life.
@@ -11,6 +13,8 @@ I'm a developer with a curious mind, always eager to explore the intersection of
 Currently, I'm exploring cloud development with a focus on AWS services and aiming to deepen my understanding of scalable backend architectures and cloud-based solutions.
 
 ---
+
+![Working GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjJ6aXF2Njl0OGVoMmt0bjRlYjNmczFvcDN2dmZ2eHkyMnUxdXA3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 ## Tech Stack
 
