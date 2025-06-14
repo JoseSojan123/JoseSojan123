@@ -1,88 +1,76 @@
-# 👋 Hey there! I'm Jose Sojan
-### 💻 Coder • 🎨 Creator • 🚀 Explorer of Ideas
-
-![Profile Views](https://komarev.com/ghpvc/?username=JoseSojan123&style=flat-square&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/JoseSojan123?label=Follow&style=social)
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 ---
 
-## 🧠 Who Am I?
+## About Me
 
-A passionate and curious mind constantly learning and building. I believe in the power of **technology + creativity** to shape better solutions — whether it’s crafting a sleek UI, solving problems with data, or making something awesome just for fun.  
-
-*“Code is my brush, logic is my canvas.”*
+I'm Jose Sojan — a curious and consistent builder who loves combining logic and creativity. Whether it’s crafting responsive UIs, working with APIs, or making games for fun, I enjoy the process of learning by doing.
 
 ---
 
-## 🛠️ My Toolbox
+## Tech Stack
 
-### 👇 Languages & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-ffb347?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-b19cd9?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-f67280?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-66cdaa?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
- <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
+</div>
 
 ---
 
-## 📂 Noteworthy Projects
+## Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔐 `Mall Parking System` | Interactive UI for parking blocks | Python, Tkinter |
-| 🎮 `Game Boy with 4 Games` | Mini-console featuring Tetris, Snake & more | Pygame |
-| ✈️ `Flight Booking Analysis` | ML-powered prediction model | Python, Sklearn |
-| 🏰 `Forts of Maharashtra Website` | A cultural web experience | HTML, CSS, JS |
-
----
-
-## 🌟 Fun Facts
-
-- 🎤 I love presenting ideas visually and making boring topics look cool.
-- 🧬 I’ve explored bioengineering trends like **biomimicry** and **DNA origami**.
-- 🎮 Built games, built sites, broke a few (on purpose) just to learn more.
-- ✨ Always curious. Forever building.
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| TheFortChronicles | A cultural web experience focused on the forts of Maharashtra. Features interactive maps and AI-generated content. | React, Node.js, Leaflet, Gemini API |
+| JavaScript RPG | A browser-based RPG game with platformer mechanics including gravity and collision detection. | JavaScript, HTML, CSS |
+| Java Game Pack | A desktop-style mini-console featuring Java games like Flappy Bird and MatchCard. | Java, Swing |
 
 ---
 
-## 📫 Let’s Connect!
+## Contact
 
-Feel free to reach out, collaborate, or just geek out over cool tech stuff:
-
-- 🌐 [Portfolio](#)  
-- 📧 [jose10sojan@gmail.com](mailto:jose10sojan@gmail.com)  
-- 🧵 [LinkedIn](https://www.linkedin.com/in/jose-sojan-choorakoottil-b20876273)
-
-- 🐙 [GitHub](https://github.com/JoseSojan123)  
+- Email: [jose10sojan@gmail.com](mailto:jose10sojan@gmail.com)  
+- LinkedIn: [linkedin.com/in/jose-sojan-choorakoottil-b20876273](https://www.linkedin.com/in/jose-sojan-choorakoottil-b20876273)  
+- GitHub: [github.com/JoseSojan123](https://github.com/JoseSojan123)
 
 ---
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+</div>
+
 ---
 
-> “We're all stories in the end. Just make it a good one, eh?”  
-> — *The Eleventh Doctor, Doctor Who*
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoseSojan123&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=JoseSojan123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" />
+</div>
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseSojan123/JoseSojan123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseSojan123/JoseSojan123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseSojan123/JoseSojan123/output/pacman-contribution-graph.svg">
+</picture>
