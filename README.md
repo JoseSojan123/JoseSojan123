@@ -66,8 +66,4 @@ Currently, I'm exploring cloud development with a focus on AWS services and aimi
 - LinkedIn: [linkedin.com/in/jose-sojan-choorakoottil-b20876273](https://www.linkedin.com/in/jose-sojan-choorakoottil-b20876273)  
 - GitHub: [github.com/JoseSojan123](https://github.com/JoseSojan123)
 
-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseSojan123/JoseSojan123/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseSojan123/JoseSojan123/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseSojan123/JoseSojan123/output/pacman-contribution-graph.svg">
-</picture>
+
